@@ -1,4 +1,4 @@
-# HumanAITeaming
+# HumanAI Teaming
 Code base for NeurIPS 2022 publication titled Human-AI Collaborative Bayesian Optimsiation
 
 We have conducted all our experiments in a server with the following specifications.
