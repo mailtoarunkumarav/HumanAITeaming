@@ -19,6 +19,6 @@ For running the experiments, please follow the steps mentioned below.
 1. Navigate to directory named “HATBO”, containing the source files required for conducting the experiments.
 2. $ python ExpAI_KernelOpt_Wrapper.py -d <dataset/function> -t <number_of_iterations>
 
-    <dataset/function> is the dataset or the function to be used (ackley, sonar, wdbc, ecoli, · · · )
+    <dataset/function> is the dataset or the function to be used (ackley, sonar, wdbc, ecoli, · · ·)
     
     For example: $ python ExpAI_KernelOpt_Wrapper.py -d sonar
