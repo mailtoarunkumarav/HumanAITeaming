@@ -1,5 +1,5 @@
 # HumanAI Teaming
-Code base for NeurIPS 2022 publication titled Human-AI Collaborative Bayesian Optimsiation
+Code base for Human-AI Collaborative Bayesian Optimisation accepted at NeurIPS 2022.
 
 We have conducted all our experiments in a server with the following specifications.
 * RAM: 16 GB
